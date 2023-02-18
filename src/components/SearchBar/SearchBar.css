@@ -3,13 +3,14 @@
     padding: 8px 10px;
     border-color: #087deb;
     outline: #087deb;
+    margin-top: 28px;
 }
 .search {
     position: relative
 }
 .search-icon {
     position: absolute;
-    top: 5px;
+    top: 34px;
     right: 0;
     color: #087deb;
     padding-right: 10px;
