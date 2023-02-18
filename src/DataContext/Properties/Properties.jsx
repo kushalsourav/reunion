@@ -1,0 +1,188 @@
+ export  const Properties= [
+    {
+        id: 1,
+        location:"New York, NY",
+        price: 2500,
+        type:"Houses",
+        beds:4,
+        bathrooms:3,
+        address:"2nd cross 2nd main abc street",
+        image:"https://www.shutterstock.com/image-photo/new-york-city-usa-december-260nw-1871282989.jpg",
+        title: "Orchard House"
+    },
+    {
+        id: 2,
+        location:"Los Angeles, CA",
+        price: 2200,
+        type:"Farm House",
+        beds:4,
+        bathrooms:2,
+        address:"3rd cross 2nd main rgc street",
+        image:"https://images.pexels.com/photos/186077/pexels-photo-186077.jpeg?cs=srgb&dl=pexels-binyamin-mellish-186077.jpg&fm=jpg",
+        title: "palm house"
+    },
+    {
+        id: 3,
+        location:"Washington, DC",
+        price: 3500,
+        type:"Villa",
+        beds:4,
+        bathrooms:3,
+        address:"5th cross 2nd main tgc street",
+        image:"https://thumbs.dreamstime.com/b/house-14-14997645.jpg",
+        title: "Orchard, Woodland"
+    },
+    {
+        id:4,
+        location:"San Francisco, CA",
+        price: 4500,
+        type:"Pent House",
+        beds:4,
+        bathrooms:2,
+        address:"4th cross 3rd main axc street",
+        image:"https://cdn.w600.comps.canstockphoto.com/new-old-house-pictures_csp0297718.jpg",
+        title: "Treetops"
+    },
+    {
+        id:5,
+        location:"New York, NY",
+        price: 2900,
+        type:"Duplex",
+        beds:3,
+        bathrooms:2,
+        address:"6th cross 3rd main xyz street",
+        image:"https://cdn.w600.comps.canstockphoto.com/front-yard-of-a-house-stock-image_csp1318546.jpg",
+        title: "The Hollies"
+    },
+    {
+        location:"New York, NY",
+        price: 2900,
+        type:"Pent House",
+        beds:2,
+        bathrooms:1,
+        address:"7th cross 3rd main xyz street",
+        image:"https://c8.alamy.com/comp/2K3K456/concept-art-illustration-of-manhattan-penthouse-interior-design-in-new-york-city-2K3K456.jpg",
+        title: "Primrose Cottage"
+    },
+    {
+        id:6,
+        location:"New York, NY",
+        price: 3200,
+        type:"Duplex",
+        beds:3,
+        bathrooms:1,
+        address:"4th cross 2nd main abc street",
+        image:"https://images.pexels.com/photos/1115804/pexels-photo-1115804.jpeg?cs=srgb&dl=pexels-graphicgumcom-1115804.jpg&fm=jpg",
+        title: "Rose Cottage"
+    },
+    {
+        id:7,
+        location:"Los Angeles, CA",
+        price: 4500,
+        type:"Pent House",
+        beds:3,
+        bathrooms:2,
+        address:"3rd cross 2nd main rgc street",
+        image:"https://cdn.w600.comps.canstockphoto.com/modern-penthouse-picture_csp21530218.jpg",
+        title: "Tarn Hows"
+    },
+    {
+        id:8,
+        location:"Los Angeles, CA",
+        price: 3100,
+        type:"Duplex",
+        beds:2,
+        bathrooms:2,
+        address:"4th cross 2nd main rgc street",
+        image:"https://cdn.w600.comps.canstockphoto.com/front-of-a-new-brick-style-single-family-picture_csp5724091.jpg",
+        title: "Larmona"
+    },
+    {
+        id:9,
+        location:"Los Angeles, CA",
+        price: 2400,
+        type:"Houses",
+        beds:2,
+        bathrooms:1,
+        address:"4th cross 2nd main rgc street",
+        image:"https://cdn.w600.comps.canstockphoto.com/house-exterior-picture_csp5315371.jpg",
+        title: "Rydal"
+    },
+    {
+        id:10,
+        location:"Washington, DC",
+        price: 2500,
+        type:"Houses",
+        beds:3,
+        bathrooms:2,
+        address:"5th cross 2nd main ccc street",
+        image:"https://cdn.w600.comps.canstockphoto.com/victorian-house-picture_csp0305337.jpg",
+        title: "The Woodlands"
+    },
+    {
+        id:11,
+        location:"Washington, DC",
+        price: 2400,
+        type:"Duplex",
+        beds:2,
+        bathrooms:2,
+        address:"5th cross 1st main xyz street",
+        image:"https://cdn.w600.comps.canstockphoto.com/modern-suburban-house-picture_csp18969215.jpg",
+        title: "Whispers"
+    },
+    {
+        id:12,
+        location:"Washington, DC",
+        price: 3200,
+        type:"Pent House",
+        beds:1,
+        bathrooms:1,
+        address:"5th cross 2nd main ccc street",
+        image:"https://cdn.w600.comps.canstockphoto.com/house-interior-picture_csp5315247.jpg",
+        title: "The Nutshell"
+    },
+    {
+        id:13,
+        location:"San Francisco, CA",
+        price: 3000,
+        type:"Houses",
+        beds:2,
+        bathrooms:2,
+        address:"4th cross 3rd main axc street",
+        image:"https://cdn.xxl.thumbs.canstockphoto.com/luxury-house-stock-photos_csp0396623.jpg",
+        title: "Windermere"
+    },
+    {
+        id:14,
+        location:"San Francisco, CA",
+        price: 3100,
+        type:"Duplex",
+        beds:2,
+        bathrooms:2,
+        address:"4th cross 2nd main axc street",
+        image:"https://cdn.w600.comps.canstockphoto.com/suburban-house-stock-photograph_csp0139009.jpg",
+        title: "Windmill"
+    },
+    {
+        id:15,
+        location:"San Francisco, CA",
+        price: 3600,
+        type:"Farm House",
+        beds:3,
+        bathrooms:2,
+        address:"4th cross 2nd main tic street",
+        image:"https://cdn.w600.comps.canstockphoto.com/house-with-porch-stock-photograph_csp24958797.jpg",
+        title: "Malibu"
+    },
+    {
+        id:16,
+        location:"San Francisco, CA",
+        price: 4500,
+        type:"Villa",
+        beds:4,
+        bathrooms:2,
+        address:"4th cross 2nd main tic street",
+        image:"https://thumbs.dreamstime.com/b/classic-house-flower-garden-751996.jpg",
+        title: "Omega"
+    },
+];

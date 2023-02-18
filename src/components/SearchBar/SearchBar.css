@@ -1,0 +1,16 @@
+.searchbar {
+    width: auto;
+    padding: 8px 10px;
+    border-color: #087deb;
+    outline: #087deb;
+}
+.search {
+    position: relative
+}
+.search-icon {
+    position: absolute;
+    top: 5px;
+    right: 0;
+    color: #087deb;
+    padding-right: 10px;
+}
